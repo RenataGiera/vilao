@@ -1,0 +1,11 @@
+.regulamin h4 {
+  text-align: center;
+  font-size: 1em;
+}
+.regulamin li {
+  padding-bottom: 10px;
+  font-size: 0.9em;
+}
+.regulamin p {
+  font-size: 0.9em;
+}
